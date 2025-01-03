@@ -90,14 +90,14 @@ This output shows how the program handles concurrent booking requests and ensure
 - **Synchronization**: Ensures only one thread modifies the shared resource (`availableSeats`) at a time.
 - **Real-World Modeling**: Demonstrates a practical use case of table reservations in a hotel.
 
----
+----
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute! You can:
 - Add more features, such as dynamic seat availability.
 - Improve the logging or extend functionality.
 
----
+----
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
